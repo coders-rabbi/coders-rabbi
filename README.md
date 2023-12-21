@@ -1,10 +1,10 @@
 ### Hi there 👋, Hi.. I am Coders_rabbi
-#### I am Front_End Developer
+#### I am Full_Stack Developer
 ![I am Front_End Developer](https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/338486613_1321545948574125_8536879373016925414_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=783fdb&_nc_ohc=aoZuitHjdr0AX-broqQ&_nc_ht=scontent.fdac110-1.fna&cb_e2o_trans=t&oh=00_AfDV1w98RDY1FPdUVddmABNrGnE0abvkEv9Q8BBENREXWw&oe=65891870)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / BOOTSTRAP / TAILWIND / REACT 
+Skills: HTML / CSS / BOOTSTRAP / TAILWIND / JS / REACT / TS / NODE JS / Express JS / MongoDB / Mongoose / 
 
 - 🔭 I’m currently working on SR IT FUSION 
 - 🌱 I’m currently learning REACT 
